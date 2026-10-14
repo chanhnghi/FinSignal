@@ -1,0 +1,7 @@
+{
+  "url": "https://huggingface.co/datasets/takala/financial_phrasebank/resolve/main/data/FinancialPhraseBank-v1.0.zip",
+  "zip_sha256": "0e1a06c4900fdae46091d031068601e3773ba067c7cecb5b0da1dcba5ce989a6",
+  "subset": "Sentences_75Agree.txt",
+  "license": "CC BY-NC-SA 3.0",
+  "encoding": "iso-8859-1"
+}
